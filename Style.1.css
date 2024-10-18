@@ -1,0 +1,29 @@
+body{
+   
+h1 {color:black;
+   text-align: center;
+   font-family: Montserrat;
+   text-decoration: underline;
+   text-decoration-color: black;
+}
+
+u{Color:rgb(0,0,255);}
+
+h2{font-family: Montserrat;
+text-align: center;
+text-decoration: underline;
+text-decoration-color: black;
+color: black;}
+
+strong{Color:rgb(0,0,255);
+font-family: Montserrat;
+text-align: left;}
+
+p{font-family: Montserrat;
+font-weight: 700;
+text-align: left;}
+
+div{text-align: center;}
+
+
+}
